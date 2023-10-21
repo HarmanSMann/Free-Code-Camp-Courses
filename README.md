@@ -6,7 +6,8 @@ Completed:
 - Bootstrap
 - CSS FlexBox
 - SASS
-
-Working on:
 - JQuery
-- 
+
+  
+Working on:
+- Redux
