@@ -7,7 +7,7 @@ Completed:
 - CSS FlexBox
 - SASS
 - JQuery
-
+- Redux
   
 Working on:
-- Redux
+
